@@ -1,0 +1,13 @@
+layout_spectrum: 1
+typography_spectrum: 0.1379928
+color:
+  saturation: 0.7903226
+  lightness: 0.2329749
+  brandStrength: 0.5470601
+  brandColors:
+    - '#E8E8E8'
+    - '#393939'
+    - '#B4B4B4'
+    - '#656565'
+  rhythmicContrast: 0.7007169
+name: Harlem Lens
